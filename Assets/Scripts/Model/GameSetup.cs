@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 
 public class GameSetup : MonoBehaviour
@@ -6,30 +5,31 @@ public class GameSetup : MonoBehaviour
     [SerializeField] private GardensInitializer gardensInitializer;
     [SerializeField] private PlantsCollection collection;
     [SerializeField] private YandexAdsShower adsShower;
-    [SerializeField] private YandexLoadDataHandler dataHandler;
+    [SerializeField] private YandexHandler yandexHandler;
 
     private const float saveTime = 5;
 
     private ISaver saver;
+    private ILoader loader;
 
     private void OnEnable()
     {
         Upgrade.Applied += SaveData;
-        dataHandler.RecieveData += LoadData;
+        yandexHandler.RecieveData += LoadData;
     }
 
     private void OnDisable()
     {
         Upgrade.Applied -= SaveData;
-        dataHandler.RecieveData -= LoadData;
+        yandexHandler.RecieveData -= LoadData;
     }
 
     private void OnApplicationFocus(bool hasFocus)
     {
-        if (!hasFocus)
-            AudioListener.volume = 0f;
-        else
+        if (hasFocus)
             AudioListener.volume = 1f;
+        else
+            AudioListener.volume = 0f;
     }
 
     private void OnApplicationPause(bool isPaused)
@@ -43,8 +43,9 @@ public class GameSetup : MonoBehaviour
     private void Start()
     {
         saver = new YandexSaver();
+        loader = new YandexLoader();
         collection.ResetCollection();
-        dataHandler.RequestJson();
+        loader.Load();
         StartSaving(saveTime);
     }
 

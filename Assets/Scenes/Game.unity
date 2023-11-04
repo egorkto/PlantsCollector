@@ -1928,6 +1928,7 @@ MonoBehaviour:
   gardens:
   - {fileID: 1143224047051773954}
   - {fileID: 1232275580}
+  - {fileID: 2100880034}
 --- !u!114 &539351480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2256,7 +2257,7 @@ GameObject:
   - component: {fileID: 676388686}
   - component: {fileID: 676388685}
   m_Layer: 0
-  m_Name: YandexLoadDataHandler
+  m_Name: YandexHandler
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3955,7 +3956,7 @@ MonoBehaviour:
   gardensInitializer: {fileID: 740792768}
   collection: {fileID: 2025484578}
   adsShower: {fileID: 1983431297}
-  dataHandler: {fileID: 676388685}
+  yandexHandler: {fileID: 676388685}
 --- !u!4 &1210324591
 Transform:
   m_ObjectHideFlags: 0
@@ -22377,11 +22378,11 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 12909960}
   - {fileID: 80623522}
-  - {fileID: 676388686}
   - {fileID: 1210324591}
   - {fileID: 539351478}
   - {fileID: 1548049525}
   - {fileID: 68983475}
+  - {fileID: 676388686}
   - {fileID: 1983431296}
   - {fileID: 1453203719}
   - {fileID: 543923463}

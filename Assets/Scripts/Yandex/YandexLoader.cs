@@ -1,16 +1,13 @@
+using System.Runtime.InteropServices;
 using UnityEngine;
 
 public class YandexLoader : ILoader
 {
-    private string json;
+    [DllImport("__Internal")]
+    private static extern void LoadExtern();
 
-    public YandexLoader(string data)
+    public void Load()
     {
-        json = data;
-    }
-
-    public WorldData Load()
-    {
-        return JsonUtility.FromJson<WorldData>(json);
+        LoadExtern();
     }
 }

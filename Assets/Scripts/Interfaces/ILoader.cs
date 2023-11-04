@@ -1,4 +1,4 @@
 public interface ILoader
 {
-    public WorldData Load();
+    public void Load();
 }
