@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class YandexHandler : MonoBehaviour
 {
-    public Action<WorldData> RecieveData;
+    public event Action<WorldData> RecieveData;
+    public event Action AdOpen;
+    public event Action AdClose;
 
     [DllImport("__Internal")]
     private static extern void CheckString(string str);
@@ -17,11 +19,11 @@ public class YandexHandler : MonoBehaviour
 
     public void OnAdOpen()
     {
-        AudioListener.volume = 0f;
+        AdOpen?.Invoke();
     }
 
     public void OnAdClose()
     {
-        AudioListener.volume = 1f;
+        AdClose?.Invoke();
     }
 }

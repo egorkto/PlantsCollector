@@ -11,22 +11,39 @@ public class GameSetup : MonoBehaviour
 
     private ISaver saver;
     private ILoader loader;
+    private bool adOpen;
 
     private void OnEnable()
     {
         Upgrade.Applied += SaveData;
         yandexHandler.RecieveData += LoadData;
+        yandexHandler.AdOpen += OnAdOpen;
+        yandexHandler.AdClose += OnAdClose;
     }
 
     private void OnDisable()
     {
         Upgrade.Applied -= SaveData;
         yandexHandler.RecieveData -= LoadData;
+        yandexHandler.AdOpen -= OnAdOpen;
+        yandexHandler.AdClose -= OnAdClose;
+    }
+
+    private void OnAdOpen()
+    {
+        adOpen = true;
+        AudioListener.volume = 0f;
+    }
+
+    private void OnAdClose()
+    {
+        adOpen = false;
+        AudioListener.volume = 1f;
     }
 
     private void OnApplicationFocus(bool hasFocus)
     {
-        if (hasFocus)
+        if (hasFocus && !adOpen)
             AudioListener.volume = 1f;
         else
             AudioListener.volume = 0f;
@@ -34,7 +51,7 @@ public class GameSetup : MonoBehaviour
 
     private void OnApplicationPause(bool isPaused)
     {
-        if (isPaused)
+        if (isPaused || adOpen)
             AudioListener.volume = 0f;
         else
             AudioListener.volume = 1f;
