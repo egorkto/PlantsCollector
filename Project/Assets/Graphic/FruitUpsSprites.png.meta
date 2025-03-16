@@ -1,0 +1,2828 @@
+fileFormatVersion: 2
+guid: 9a77f93590f502a4795159d91b0f6d26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3432735074011254177
+    second: FruitUpsSprites_0
+  - first:
+      213: -9221944253869912934
+    second: FruitUpsSprites_1
+  - first:
+      213: -3531399770288467413
+    second: FruitUpsSprites_2
+  - first:
+      213: 5723729389569767123
+    second: FruitUpsSprites_3
+  - first:
+      213: 604742097070317501
+    second: FruitUpsSprites_4
+  - first:
+      213: -1259847023053325469
+    second: FruitUpsSprites_5
+  - first:
+      213: 9028761236013728245
+    second: FruitUpsSprites_6
+  - first:
+      213: -5923803176907578483
+    second: FruitUpsSprites_7
+  - first:
+      213: 1399732070371946415
+    second: FruitUpsSprites_8
+  - first:
+      213: 8250354553067756706
+    second: FruitUpsSprites_9
+  - first:
+      213: 4763893637525508023
+    second: FruitUpsSprites_10
+  - first:
+      213: 1044494392167829809
+    second: FruitUpsSprites_11
+  - first:
+      213: -1528939296157450700
+    second: FruitUpsSprites_12
+  - first:
+      213: -4612426567893087791
+    second: FruitUpsSprites_13
+  - first:
+      213: 6352527351400510922
+    second: FruitUpsSprites_14
+  - first:
+      213: -856917785242501944
+    second: FruitUpsSprites_15
+  - first:
+      213: 7960088871006435784
+    second: FruitUpsSprites_16
+  - first:
+      213: 8489806708408999729
+    second: FruitUpsSprites_17
+  - first:
+      213: -4563641833398282201
+    second: FruitUpsSprites_18
+  - first:
+      213: 4538114662465260143
+    second: FruitUpsSprites_19
+  - first:
+      213: 5394351831248276149
+    second: FruitUpsSprites_20
+  - first:
+      213: -6507267722927410040
+    second: FruitUpsSprites_21
+  - first:
+      213: 1985289723207729303
+    second: FruitUpsSprites_22
+  - first:
+      213: -2137878597070583297
+    second: FruitUpsSprites_23
+  - first:
+      213: 3383625557402457716
+    second: FruitUpsSprites_24
+  - first:
+      213: -2609444846526590267
+    second: FruitUpsSprites_25
+  - first:
+      213: 615860972599202120
+    second: FruitUpsSprites_26
+  - first:
+      213: 785415141415768961
+    second: FruitUpsSprites_27
+  - first:
+      213: 2345036642752878179
+    second: FruitUpsSprites_28
+  - first:
+      213: 6927256291195873150
+    second: FruitUpsSprites_29
+  - first:
+      213: -6548673345060061737
+    second: FruitUpsSprites_30
+  - first:
+      213: -1956333572318696132
+    second: FruitUpsSprites_31
+  - first:
+      213: 2279436750102403447
+    second: FruitUpsSprites_32
+  - first:
+      213: -7034632234045164980
+    second: FruitUpsSprites_33
+  - first:
+      213: 1679258797761771216
+    second: FruitUpsSprites_34
+  - first:
+      213: 1001490837846703228
+    second: FruitUpsSprites_35
+  - first:
+      213: 719832624439501626
+    second: FruitUpsSprites_36
+  - first:
+      213: 3914620664828550684
+    second: FruitUpsSprites_37
+  - first:
+      213: -6361120707012080365
+    second: FruitUpsSprites_38
+  - first:
+      213: 3263374866301171806
+    second: FruitUpsSprites_39
+  - first:
+      213: 7279671614710275614
+    second: FruitUpsSprites_40
+  - first:
+      213: 4499533896316712100
+    second: FruitUpsSprites_41
+  - first:
+      213: -2576171016180411038
+    second: FruitUpsSprites_42
+  - first:
+      213: 6655610517081511125
+    second: FruitUpsSprites_43
+  - first:
+      213: -1448540192838063386
+    second: FruitUpsSprites_44
+  - first:
+      213: -7890262711741369551
+    second: FruitUpsSprites_45
+  - first:
+      213: 3270163638383165004
+    second: FruitUpsSprites_46
+  - first:
+      213: -6370101223282979319
+    second: FruitUpsSprites_47
+  - first:
+      213: 5344474034742515857
+    second: FruitUpsSprites_48
+  - first:
+      213: -1392804385445037662
+    second: FruitUpsSprites_49
+  - first:
+      213: -7565089584488014103
+    second: FruitUpsSprites_50
+  - first:
+      213: -860467017561856010
+    second: FruitUpsSprites_51
+  - first:
+      213: -6536528826345746693
+    second: FruitUpsSprites_52
+  - first:
+      213: -4597501869894213142
+    second: FruitUpsSprites_53
+  - first:
+      213: -1172708136506040877
+    second: FruitUpsSprites_54
+  - first:
+      213: -8605111876119147544
+    second: FruitUpsSprites_55
+  - first:
+      213: -4880401836891408960
+    second: FruitUpsSprites_56
+  - first:
+      213: 5673165046888290865
+    second: FruitUpsSprites_57
+  - first:
+      213: -4497062814622548839
+    second: FruitUpsSprites_58
+  - first:
+      213: -7569471063516279861
+    second: FruitUpsSprites_59
+  - first:
+      213: 6344884624654479246
+    second: FruitUpsSprites_60
+  - first:
+      213: -7819271116847580343
+    second: FruitUpsSprites_61
+  - first:
+      213: 7574885070820658681
+    second: FruitUpsSprites_62
+  - first:
+      213: -664355653970615715
+    second: FruitUpsSprites_63
+  - first:
+      213: -8284802881413433139
+    second: FruitUpsSprites_64
+  - first:
+      213: -9084437781795088222
+    second: FruitUpsSprites_65
+  - first:
+      213: 6790089259075477533
+    second: FruitUpsSprites_66
+  - first:
+      213: 7875353188222762707
+    second: FruitUpsSprites_67
+  - first:
+      213: 825031586746712410
+    second: FruitUpsSprites_68
+  - first:
+      213: 3281462468046233930
+    second: FruitUpsSprites_69
+  - first:
+      213: 8245402661100396657
+    second: FruitUpsSprites_70
+  - first:
+      213: -8695975668196218290
+    second: FruitUpsSprites_71
+  - first:
+      213: -3686461107041015557
+    second: FruitUpsSprites_72
+  - first:
+      213: -6029892474843382541
+    second: FruitUpsSprites_73
+  - first:
+      213: 8027102493856460626
+    second: FruitUpsSprites_74
+  - first:
+      213: -3784772707016474579
+    second: FruitUpsSprites_75
+  - first:
+      213: -3748900170368527008
+    second: FruitUpsSprites_76
+  - first:
+      213: -2769728087921003946
+    second: FruitUpsSprites_77
+  - first:
+      213: -5674333555531928454
+    second: FruitUpsSprites_78
+  - first:
+      213: -4461302065398785791
+    second: FruitUpsSprites_79
+  - first:
+      213: 296437730698086412
+    second: FruitUpsSprites_80
+  - first:
+      213: 2993615468767456839
+    second: FruitUpsSprites_81
+  - first:
+      213: 3246864978860576072
+    second: FruitUpsSprites_82
+  - first:
+      213: -238617728501144666
+    second: FruitUpsSprites_83
+  - first:
+      213: -1867642228958749672
+    second: FruitUpsSprites_84
+  - first:
+      213: -2117519806001077907
+    second: FruitUpsSprites_85
+  - first:
+      213: -1285595544859001545
+    second: FruitUpsSprites_86
+  - first:
+      213: 257457620518149078
+    second: FruitUpsSprites_87
+  - first:
+      213: -2495871723553533896
+    second: FruitUpsSprites_88
+  - first:
+      213: -1910853481680656526
+    second: FruitUpsSprites_89
+  - first:
+      213: -5421151981311598686
+    second: FruitUpsSprites_90
+  - first:
+      213: -5856898518290995329
+    second: FruitUpsSprites_91
+  - first:
+      213: -8703610464150382583
+    second: FruitUpsSprites_92
+  - first:
+      213: 8218307433199441213
+    second: FruitUpsSprites_93
+  - first:
+      213: -5396897133526083957
+    second: FruitUpsSprites_94
+  - first:
+      213: 7193192364107977756
+    second: FruitUpsSprites_95
+  - first:
+      213: -6414840783255788269
+    second: FruitUpsSprites_96
+  - first:
+      213: -7528039780978232092
+    second: FruitUpsSprites_97
+  - first:
+      213: 7167529761666662918
+    second: FruitUpsSprites_98
+  - first:
+      213: 7075918135316535858
+    second: FruitUpsSprites_99
+  - first:
+      213: 4554839714143429958
+    second: FruitUpsSprites_100
+  - first:
+      213: 1653465995658251589
+    second: FruitUpsSprites_101
+  - first:
+      213: -6099484350954910041
+    second: FruitUpsSprites_102
+  - first:
+      213: -4443061909779396975
+    second: FruitUpsSprites_103
+  - first:
+      213: 801380799249798556
+    second: FruitUpsSprites_104
+  - first:
+      213: -1273133992103093491
+    second: FruitUpsSprites_105
+  - first:
+      213: -812748628337695542
+    second: FruitUpsSprites_106
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FruitUpsSprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4831
+        width: 493
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52f88933a97c50d0800000000000000
+      internalID: -3432735074011254177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4831
+        width: 494
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c01a1af82150080800000000000000
+      internalID: -9221944253869912934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_2
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 4821
+        width: 495
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b225f0c7e92fdfec0800000000000000
+      internalID: -3531399770288467413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 4826
+        width: 495
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f4cfdd85ce6f40800000000000000
+      internalID: 5723729389569767123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 4860
+        width: 437
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd994bbb9746800800000000000000
+      internalID: 604742097070317501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 4988
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb297becf148ee0800000000000000
+      internalID: -1259847023053325469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_6
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 4948
+        width: 463
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14a6af18a9c4d70800000000000000
+      internalID: 9028761236013728245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_7
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 4771
+        width: 487
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e711756c6acda0800000000000000
+      internalID: -5923803176907578483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_8
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 4748
+        width: 495
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafed33e6e8dc6310800000000000000
+      internalID: 1399732070371946415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_9
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 4719
+        width: 83
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac51a6f0c52f7270800000000000000
+      internalID: 8250354553067756706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_10
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 4743
+        width: 192
+        height: 424
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf837ce500cc1240800000000000000
+      internalID: 4763893637525508023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_11
+      rect:
+        serializedVersion: 2
+        x: 4460
+        y: 4545
+        width: 638
+        height: 763
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311d0f9d1ace7e00800000000000000
+      internalID: 1044494392167829809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_12
+      rect:
+        serializedVersion: 2
+        x: 5106
+        y: 4534
+        width: 208
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e36619fcd18cae0800000000000000
+      internalID: -1528939296157450700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4701
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d98824697e5dffb0800000000000000
+      internalID: -4612426567893087791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4701
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53e2e08f5b82850800000000000000
+      internalID: 6352527351400510922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4696
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccf7e080dd9b14f0800000000000000
+      internalID: -856917785242501944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_16
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4696
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f0e067aae77e60800000000000000
+      internalID: 7960088871006435784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_17
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 4688
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f527a683ad1d570800000000000000
+      internalID: 8489806708408999729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 4688
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728de268eefaaa0c0800000000000000
+      internalID: -4563641833398282201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 4688
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6acb36dd3f9afe30800000000000000
+      internalID: 4538114662465260143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_20
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 4688
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba0807f8669cda40800000000000000
+      internalID: 5394351831248276149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_21
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 4774
+        width: 425
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fb84ab7a81b5a0800000000000000
+      internalID: -6507267722927410040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 4727
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c7081c7a2d8b10800000000000000
+      internalID: 1985289723207729303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4269
+        width: 375
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff982b03ebab452e0800000000000000
+      internalID: -2137878597070583297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_24
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4258
+        width: 373
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47618e9648d05fe20800000000000000
+      internalID: 3383625557402457716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_25
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 4211
+        width: 325
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21fcdccb369cbd0800000000000000
+      internalID: -2609444846526590267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_26
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 4258
+        width: 375
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8415dc6aa4afb8800800000000000000
+      internalID: 615860972599202120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_27
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 4224
+        width: 299
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183dc49e8ea56ea00800000000000000
+      internalID: 785415141415768961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_28
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 4328
+        width: 143
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3665f8ce66e3b8020800000000000000
+      internalID: 2345036642752878179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_29
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 4243
+        width: 395
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77e1d805ee822060800000000000000
+      internalID: 6927256291195873150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_30
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 4185
+        width: 322
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd30adf9407e15a0800000000000000
+      internalID: -6548673345060061737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_31
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 4433
+        width: 286
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3de5c72bf4b9d4e0800000000000000
+      internalID: -1956333572318696132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 4190
+        width: 122
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77913d1b5af22af10800000000000000
+      internalID: 2279436750102403447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_33
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 4192
+        width: 377
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42b9341147ff5e90800000000000000
+      internalID: -7034632234045164980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_34
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 4175
+        width: 472
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d63a8ebafced4710800000000000000
+      internalID: 1679258797761771216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_35
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 4104
+        width: 654
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c39a36c9206ed00800000000000000
+      internalID: 1001490837846703228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_36
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 4224
+        width: 78
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33247545fb5df900800000000000000
+      internalID: 719832624439501626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4071
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e528d01c6835630800000000000000
+      internalID: 3914620664828550684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4071
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc92d6b62c8b7a0800000000000000
+      internalID: -6361120707012080365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_39
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 4068
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b1da9626d94d20800000000000000
+      internalID: 3263374866301171806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4068
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1edc44a3c6960560800000000000000
+      internalID: 7279671614710275614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_41
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 4068
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a479c83d3e817e30800000000000000
+      internalID: 4499533896316712100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_42
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 4068
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d8e32c1a9f3cd0800000000000000
+      internalID: -2576171016180411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4063
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d45ff9908a7d5c50800000000000000
+      internalID: 6655610517081511125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_44
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 4058
+        width: 57
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae20b8e50c5ebe0800000000000000
+      internalID: -1448540192838063386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 4068
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133352a3ed7208290800000000000000
+      internalID: -7890262711741369551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_46
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 4065
+        width: 51
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e3a37c084f16d20800000000000000
+      internalID: 3270163638383165004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_47
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 4063
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ecfea00bad897a0800000000000000
+      internalID: -6370101223282979319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_48
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 4068
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198502081d26b2a40800000000000000
+      internalID: 5344474034742515857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_49
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 4068
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a931f37ac3cbace0800000000000000
+      internalID: -1392804385445037662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_50
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 4071
+        width: 47
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee959eba17630790800000000000000
+      internalID: -7565089584488014103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_51
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 4058
+        width: 125
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f729457ec10f04f0800000000000000
+      internalID: -860467017561856010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 4060
+        width: 169
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe8f891aa59945a0800000000000000
+      internalID: -6536528826345746693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3711
+        width: 273
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1e2ce68646230c0800000000000000
+      internalID: -4597501869894213142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_54
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 3684
+        width: 325
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd852c924b9bfe0800000000000000
+      internalID: -1172708136506040877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_55
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3654
+        width: 367
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb4c6b2750849880800000000000000
+      internalID: -8605111876119147544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_56
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 3649
+        width: 377
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c57ce60364554cb0800000000000000
+      internalID: -4880401836891408960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_57
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3612
+        width: 424
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a50fb6d812bbe40800000000000000
+      internalID: 5673165046888290865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_58
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 3633
+        width: 392
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfdc152393791c0800000000000000
+      internalID: -4497062814622548839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_59
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3586
+        width: 398
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb83892c26d3f690800000000000000
+      internalID: -7569471063516279861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_60
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3560
+        width: 440
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f2e5113fe8d0850800000000000000
+      internalID: 6344884624654479246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_61
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3622
+        width: 476
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf3d5f85e5c7390800000000000000
+      internalID: -7819271116847580343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_62
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 3448
+        width: 620
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcca4a6d56f1960800000000000000
+      internalID: 7574885070820658681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3359
+        width: 77
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d522f887d0cb7c6f0800000000000000
+      internalID: -664355653970615715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3357
+        width: 190
+        height: 216
+      alignment: 9
+      pivot: {x: 0.7759006, y: 0.44992065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc838339ca7760d80800000000000000
+      internalID: -8284802881413433139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3453
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a857f708f79de180800000000000000
+      internalID: -9084437781795088222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_66
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3453
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a368a43e3b3e50800000000000000
+      internalID: 6790089259075477533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_67
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3450
+        width: 124
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3def1c0dfffda4d60800000000000000
+      internalID: 7875353188222762707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_68
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3477
+        width: 108
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c3806bd9137b00800000000000000
+      internalID: 825031586746712410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_69
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3448
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412caf8ab81a8d20800000000000000
+      internalID: 3281462468046233930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_70
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 3422
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17023f4c80e8d6270800000000000000
+      internalID: 8245402661100396657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_71
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3422
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a69b9f330b15780800000000000000
+      internalID: -8695975668196218290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_72
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 3424
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e684a72f07dcc0800000000000000
+      internalID: -3686461107041015557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_73
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3435
+        width: 54
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb82bedb4815ca0800000000000000
+      internalID: -6029892474843382541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_74
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 3414
+        width: 328
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f67f1503ff56f60800000000000000
+      internalID: 8027102493856460626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_75
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 3411
+        width: 169
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2080ba8649c97bc0800000000000000
+      internalID: -3784772707016474579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3083
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06558c6582b39fbc0800000000000000
+      internalID: -3748900170368527008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_77
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3083
+        width: 213
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652fb0b8af2ff89d0800000000000000
+      internalID: -2769728087921003946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3083
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ca075f1b7b041b0800000000000000
+      internalID: -5674333555531928454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_79
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3083
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109503498654612c0800000000000000
+      internalID: -4461302065398785791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_80
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3081
+        width: 216
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084844ab882d1400800000000000000
+      internalID: 296437730698086412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_81
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 3086
+        width: 211
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eaff178657b8920800000000000000
+      internalID: 2993615468767456839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_82
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3083
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d04a2ee7e2f0d20800000000000000
+      internalID: 3246864978860576072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_83
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3083
+        width: 214
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3249fa07240bcf0800000000000000
+      internalID: -238617728501144666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_84
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3107
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1567b94dc416e0800000000000000
+      internalID: -1867642228958749672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_85
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 3120
+        width: 364
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a37e94fe0d92e0800000000000000
+      internalID: -2117519806001077907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_86
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 3055
+        width: 693
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dbadfc9a5a82ee0800000000000000
+      internalID: -1285595544859001545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_87
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3073
+        width: 258
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db93bf775ca29300800000000000000
+      internalID: 257457620518149078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_88
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 3083
+        width: 395
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83056a024e1ec5dd0800000000000000
+      internalID: -2495871723553533896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_89
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 3077
+        width: 205
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2772b9ee1e84b75e0800000000000000
+      internalID: -1910853481680656526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_90
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 3068
+        width: 242
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af5488def234c4b0800000000000000
+      internalID: -5421151981311598686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_91
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 3065
+        width: 226
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e0cb24dd18bea0800000000000000
+      internalID: -5856898518290995329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_92
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 3052
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90891f48560963780800000000000000
+      internalID: -8703610464150382583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_93
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2655
+        width: 456
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d351eca611b4d0270800000000000000
+      internalID: 8218307433199441213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_94
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2607
+        width: 427
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869adaa6ae5a15b0800000000000000
+      internalID: -5396897133526083957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_95
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2609
+        width: 490
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1455bf085a53d360800000000000000
+      internalID: 7193192364107977756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_96
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 2617
+        width: 349
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a95f7b48e9f6a0800000000000000
+      internalID: -6414840783255788269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_97
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 2609
+        width: 367
+        height: 393
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e478c754b7078790800000000000000
+      internalID: -7528039780978232092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_98
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 2468
+        width: 531
+        height: 532
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6028e21d75e287360800000000000000
+      internalID: 7167529761666662918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_99
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 2721
+        width: 728
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5943ed06b23260800000000000000
+      internalID: 7075918135316535858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_100
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 2593
+        width: 78
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456c52669a063f30800000000000000
+      internalID: 4554839714143429958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_101
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 2619
+        width: 226
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dc567009a42f610800000000000000
+      internalID: 1653465995658251589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_102
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1333
+        width: 1469
+        height: 1088
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae474c9c474a5ba0800000000000000
+      internalID: -6099484350954910041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_103
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1299
+        width: 773
+        height: 1130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c780cbb21752c0800000000000000
+      internalID: -4443061909779396975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_104
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 1293
+        width: 776
+        height: 1133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955a1d47931f1b00800000000000000
+      internalID: 801380799249798556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_105
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 1299
+        width: 776
+        height: 1130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5839216be45ee0800000000000000
+      internalID: -1273133992103093491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FruitUpsSprites_106
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 1296
+        width: 781
+        height: 1133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ee3cbd6988b4f0800000000000000
+      internalID: -812748628337695542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FruitUpsSprites_0: -3432735074011254177
+      FruitUpsSprites_1: -9221944253869912934
+      FruitUpsSprites_10: 4763893637525508023
+      FruitUpsSprites_100: 4554839714143429958
+      FruitUpsSprites_101: 1653465995658251589
+      FruitUpsSprites_102: -6099484350954910041
+      FruitUpsSprites_103: -4443061909779396975
+      FruitUpsSprites_104: 801380799249798556
+      FruitUpsSprites_105: -1273133992103093491
+      FruitUpsSprites_106: -812748628337695542
+      FruitUpsSprites_11: 1044494392167829809
+      FruitUpsSprites_12: -1528939296157450700
+      FruitUpsSprites_13: -4612426567893087791
+      FruitUpsSprites_14: 6352527351400510922
+      FruitUpsSprites_15: -856917785242501944
+      FruitUpsSprites_16: 7960088871006435784
+      FruitUpsSprites_17: 8489806708408999729
+      FruitUpsSprites_18: -4563641833398282201
+      FruitUpsSprites_19: 4538114662465260143
+      FruitUpsSprites_2: -3531399770288467413
+      FruitUpsSprites_20: 5394351831248276149
+      FruitUpsSprites_21: -6507267722927410040
+      FruitUpsSprites_22: 1985289723207729303
+      FruitUpsSprites_23: -2137878597070583297
+      FruitUpsSprites_24: 3383625557402457716
+      FruitUpsSprites_25: -2609444846526590267
+      FruitUpsSprites_26: 615860972599202120
+      FruitUpsSprites_27: 785415141415768961
+      FruitUpsSprites_28: 2345036642752878179
+      FruitUpsSprites_29: 6927256291195873150
+      FruitUpsSprites_3: 5723729389569767123
+      FruitUpsSprites_30: -6548673345060061737
+      FruitUpsSprites_31: -1956333572318696132
+      FruitUpsSprites_32: 2279436750102403447
+      FruitUpsSprites_33: -7034632234045164980
+      FruitUpsSprites_34: 1679258797761771216
+      FruitUpsSprites_35: 1001490837846703228
+      FruitUpsSprites_36: 719832624439501626
+      FruitUpsSprites_37: 3914620664828550684
+      FruitUpsSprites_38: -6361120707012080365
+      FruitUpsSprites_39: 3263374866301171806
+      FruitUpsSprites_4: 604742097070317501
+      FruitUpsSprites_40: 7279671614710275614
+      FruitUpsSprites_41: 4499533896316712100
+      FruitUpsSprites_42: -2576171016180411038
+      FruitUpsSprites_43: 6655610517081511125
+      FruitUpsSprites_44: -1448540192838063386
+      FruitUpsSprites_45: -7890262711741369551
+      FruitUpsSprites_46: 3270163638383165004
+      FruitUpsSprites_47: -6370101223282979319
+      FruitUpsSprites_48: 5344474034742515857
+      FruitUpsSprites_49: -1392804385445037662
+      FruitUpsSprites_5: -1259847023053325469
+      FruitUpsSprites_50: -7565089584488014103
+      FruitUpsSprites_51: -860467017561856010
+      FruitUpsSprites_52: -6536528826345746693
+      FruitUpsSprites_53: -4597501869894213142
+      FruitUpsSprites_54: -1172708136506040877
+      FruitUpsSprites_55: -8605111876119147544
+      FruitUpsSprites_56: -4880401836891408960
+      FruitUpsSprites_57: 5673165046888290865
+      FruitUpsSprites_58: -4497062814622548839
+      FruitUpsSprites_59: -7569471063516279861
+      FruitUpsSprites_6: 9028761236013728245
+      FruitUpsSprites_60: 6344884624654479246
+      FruitUpsSprites_61: -7819271116847580343
+      FruitUpsSprites_62: 7574885070820658681
+      FruitUpsSprites_63: -664355653970615715
+      FruitUpsSprites_64: -8284802881413433139
+      FruitUpsSprites_65: -9084437781795088222
+      FruitUpsSprites_66: 6790089259075477533
+      FruitUpsSprites_67: 7875353188222762707
+      FruitUpsSprites_68: 825031586746712410
+      FruitUpsSprites_69: 3281462468046233930
+      FruitUpsSprites_7: -5923803176907578483
+      FruitUpsSprites_70: 8245402661100396657
+      FruitUpsSprites_71: -8695975668196218290
+      FruitUpsSprites_72: -3686461107041015557
+      FruitUpsSprites_73: -6029892474843382541
+      FruitUpsSprites_74: 8027102493856460626
+      FruitUpsSprites_75: -3784772707016474579
+      FruitUpsSprites_76: -3748900170368527008
+      FruitUpsSprites_77: -2769728087921003946
+      FruitUpsSprites_78: -5674333555531928454
+      FruitUpsSprites_79: -4461302065398785791
+      FruitUpsSprites_8: 1399732070371946415
+      FruitUpsSprites_80: 296437730698086412
+      FruitUpsSprites_81: 2993615468767456839
+      FruitUpsSprites_82: 3246864978860576072
+      FruitUpsSprites_83: -238617728501144666
+      FruitUpsSprites_84: -1867642228958749672
+      FruitUpsSprites_85: -2117519806001077907
+      FruitUpsSprites_86: -1285595544859001545
+      FruitUpsSprites_87: 257457620518149078
+      FruitUpsSprites_88: -2495871723553533896
+      FruitUpsSprites_89: -1910853481680656526
+      FruitUpsSprites_9: 8250354553067756706
+      FruitUpsSprites_90: -5421151981311598686
+      FruitUpsSprites_91: -5856898518290995329
+      FruitUpsSprites_92: -8703610464150382583
+      FruitUpsSprites_93: 8218307433199441213
+      FruitUpsSprites_94: -5396897133526083957
+      FruitUpsSprites_95: 7193192364107977756
+      FruitUpsSprites_96: -6414840783255788269
+      FruitUpsSprites_97: -7528039780978232092
+      FruitUpsSprites_98: 7167529761666662918
+      FruitUpsSprites_99: 7075918135316535858
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
